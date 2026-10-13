@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="VIG-2880KG3_SQL2022"
+  DTS:DTSID="{FDA77CF3-53C9-4C43-BF4D-58AB3B15F30C}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=VIG-2880KG3\SQL2022;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-pipeline_01-{FDA77CF3-53C9-4C43-BF4D-58AB3B15F30C}VIG-2880KG3\SQL2022;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
